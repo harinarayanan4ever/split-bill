@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+header {
+  display: flex;
+}
+
+.add-group {
+  margin-left: auto;
+}
+
+.group-form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.form-control {
+  display: flex;
+  gap: 20px;
+}
+
+.groups {
+  display: flex;
+  flex-direction: column;
+}
